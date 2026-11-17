@@ -1,6 +1,6 @@
 # Standalone repository
 
-Intended destination: https://github.com/veermshah/popup-optimizer
+Repository: https://github.com/veermshah/popup-optimizer
 
 This checkout contains the completed popup-optimizer project and its measured evidence. Start with [README.md](README.md). Model weights and secrets are not included.
 

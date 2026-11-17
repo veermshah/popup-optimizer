@@ -1,5 +1,9 @@
 # Pop-Up Optimizer
 
+**Hosted demo:** https://veermshah.github.io/popup-optimizer/
+
+The hosted site is published from the account’s existing GitHub Pages deployment. It computes placements in your browser over synthetic data. The `docs/` folder can also be published from this standalone repository or a fork.
+
 An offline Dallas civic-service planning demo. Select health vans, food banks, or vaccine clinics, choose 1–10 stops and a 5–45 minute travel window, and receive ranked locations with coverage circles and plain-English explanations.
 
 ## GitHub Pages (fully interactive static app)
